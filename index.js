@@ -296,5 +296,5 @@ console.log(cuboidTwo.volume()); // 100
     multiply,
     greeting,
     CuboidMaker,
-   
+   CuboidMakerTwo,
   }
